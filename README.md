@@ -17,4 +17,4 @@
 * kubectl get service
 
 
-* NOTE: mongo-secret.yaml file not uploaded, you will have to create one to run this project
+* NOTE: username and password in mongo-secret.yaml file, you will have to create one to run this project
